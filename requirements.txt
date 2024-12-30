@@ -1,0 +1,3 @@
+psycopg2==2.9.10
+faker==33.1.0
+pymongo==4.10.1 
